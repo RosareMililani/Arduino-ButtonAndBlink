@@ -1,5 +1,7 @@
 # Arduino-ButtonAndBlink
-From the Arduino Editor
+IGME470 - From the Arduino Editor
+Project: Musical Light Show
+Post: https://mililani-physicalcomp.blogspot.com/2021/03/project-1-blink-mini-light-show.html
 
 # Code:
 ```/*
